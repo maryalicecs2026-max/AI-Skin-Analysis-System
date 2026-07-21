@@ -47,3 +47,99 @@ Mary Alice
 ## 🏠 Home Page
 
 ![Home Page](screenshots/Home-page.png)
+
+---
+
+## 🔐 Login Page
+
+![Login Page](screenshots/Login-page.png)
+
+---
+
+## 📤 Upload Page
+
+![Upload Page](screenshots/Upload-page.png)
+
+---
+
+## ✅ Validation Page
+
+![Validation Page](screenshots/Validation-page.png)
+
+---
+
+## 📊 Dashboard
+
+![Dashboard](screenshots/Dashboard-page.png)
+
+---
+
+## 📈 Result Page
+
+![Result Page](screenshots/Result-page.png)
+
+---
+
+## 📄 Result Report
+
+![Result Report](screenshots/Result Report.png)
+
+---
+
+## 🧪 Ingredients Page
+
+![Ingredients Page](screenshots/Ingredients-page.png)
+
+---
+
+## 🛍️ Product Page
+
+![Product Page](screenshots/Product-page.png)
+
+---
+
+## 📋 Product Detail Page
+
+![Product Detail Page](screenshots/Product detail-page.png)
+
+---
+
+## 💡 Solutions & Product Recommendation
+
+![Solutions and Product Recommendation](screenshots/Solutions and product recommendation.png)
+
+---
+
+## ℹ️ About Page
+
+![About Page](screenshots/About-page.png)
+
+---
+
+## ✍️ Manual Input Page
+
+![Manual Input Page](screenshots/Manual-input-page.png)
+
+---
+
+## 🔄 Recheck Page
+
+![Recheck Page](screenshots/Recheck page.png)
+
+---
+
+## 🔍 Validation Check
+
+![Validation Check](screenshots/Validation-check.png)
+
+---
+
+## ⚙️ Backend Check
+
+![Backend Check](screenshots/Backend-check.png)
+
+---
+
+## 🤖 Detection Check
+
+![Detection Check](screenshots/detection-check.png)
