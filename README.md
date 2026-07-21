@@ -82,7 +82,7 @@ Mary Alice
 
 ## 📄 Result Report
 
-![Result Report](screenshots/Result Report.png)
+![Result Report](screenshots/Result-Report.png)
 
 ---
 
@@ -100,13 +100,13 @@ Mary Alice
 
 ## 📋 Product Detail Page
 
-![Product Detail Page](screenshots/Product detail-page.png)
+![Product Detail Page](screenshots/Product-detail-page.png)
 
 ---
 
 ## 💡 Solutions & Product Recommendation
 
-![Solutions and Product Recommendation](screenshots/Solutions and product recommendation.png)
+![Solutions and Product Recommendation](screenshots/Solutions-and-product-recommendation.png)
 
 ---
 
@@ -124,7 +124,7 @@ Mary Alice
 
 ## 🔄 Recheck Page
 
-![Recheck Page](screenshots/Recheck page.png)
+![Recheck Page](screenshots/Recheck-page.png)
 
 ---
 
