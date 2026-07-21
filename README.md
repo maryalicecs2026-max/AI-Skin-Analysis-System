@@ -38,3 +38,12 @@ Advanced Beauty Care is an AI-powered skincare analysis platform that helps user
 
 ## Developed By
 Mary Alice
+
+
+---
+
+# 📸 Application Screenshots
+
+## 🏠 Home Page
+
+![Home Page](screenshots/Home-page.png)
